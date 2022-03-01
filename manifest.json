@@ -10,7 +10,8 @@
     "storage", 
     "activeTab", 
     "scripting", 
-    "tabs"
+    "tabs",
+    "display"
   ],
   "host_permissions": [
     "http://*/",
