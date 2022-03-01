@@ -12,11 +12,11 @@
 
 译文的右上角可以切换 **同步滚动**。关闭后两个窗口的滚动将互不干扰
 
-![切换滚动](./illustrate/switch.png)
+<img src="./illustrate/switch.png" width="400">
 
 <br>
 
 对于 `width` 比 `height` 大的浏览器，默认是左右分屏，反之，默认是上下分屏。竖屏下的显示器展示效果如下图：<br>
 暂不支持修改分屏的默认设置，options页面正在开发中，敬请期待。
 
-![竖屏展示](./illustrate/split_screen.png)
+<img src="./illustrate/split_screen.png" width="500">
